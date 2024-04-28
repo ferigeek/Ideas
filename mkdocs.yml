@@ -1,3 +1,9 @@
 site_name: فرنام سرمیلی
+site_url: https://ideas.farnam.vip
 theme:
   name: material
+  language: fa
+  font:
+    text: Vazirmatn
+  palette:
+    scheme: default
